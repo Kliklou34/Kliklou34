@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kliklou34
+- 👋 Hi, I’m Justin Ralite
 - 👀 I’m interested in Js/cyber security
 - 🌱 I’m currently learning Js
 - 💞️ I’m looking to collaborate on security
-- 📫 How to reach me kliklou34@gmail.com
+- 📫 How to reach me ralitej@gmail.com
 
 <!---
 Kliklou34/Kliklou34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
